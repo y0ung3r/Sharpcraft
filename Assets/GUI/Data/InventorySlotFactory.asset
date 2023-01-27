@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bca56daec75631c4baafb4e8b5eab7a0, type: 3}
+  m_Name: InventorySlotFactory
+  m_EditorClassIdentifier: 
+  _holderTemplate: {fileID: 7435752855396377527, guid: 1b696ae460d1165419bbb86062a9b15d, type: 3}
