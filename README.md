@@ -1,26 +1,26 @@
 # Sharpcraft
-Копия Minecraft на Unity
-- [x] Генерация мира
-  - [x] Чанки
-  - [x] Трава
-  - [ ] Биомы
-- [x] Рендеринг
-  - [x] Оптимизация
-  - [x] Блоки
-  - [x] Предметы
-- [x] Взаиимодействие с миром
-  - [x] Ломание блоков
-  - [x] Строительство блоков
-  - [ ] Оптимизация
-- [x] Инвентарь
-  - [x] Меню быстрого доступа
-  - [x] Меню инвентаря
-  - [x] Перетаскивание предметов
-  - [x] Дроп предметов
-  - [x] Подбор предметов
-  - [x] Стакание предметов
-  - [ ] Снаряжение (частично реализовано)
-  - [ ] Крафт предметов
+Copy of Minecraft on Unity
+- [x] World generation
+  - [x] Chunks
+  - [x] Grass
+  - [ ] Bioms
+- [x] Rendering
+  - [x] Optimization
+  - [x] Blocks
+  - [x] Items
+- [x] Interacting with the world
+  - [x] Block breaking
+  - [x] Block building
+  - [ ] Optimization
+- [x] Inventory
+  - [x] Quick access menu
+  - [x] Inventory menu
+  - [x] Items drag and drop
+  - [x] Items dropping
+  - [x] Items picking up
+  - [x] Items stacking
+  - [ ] Equipment (partially implemented)
+  - [ ] Crafting
 
-## Скриншот
+## Screenshots
 ![photo1674845625](https://user-images.githubusercontent.com/55300023/235246722-579082b3-1963-4625-a997-1c367a9e7bc4.jpeg)
